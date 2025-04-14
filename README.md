@@ -4,6 +4,16 @@
 ![Github Action](https://github.com/portto/blocto-android-sdk/actions/workflows/ci.yml/badge.svg)
 ![GitHub](https://img.shields.io/github/license/portto/blocto-android-sdk)
 
+> ⚠️ **Deprecation Notice**
+>
+> This repository is **no longer maintained** and has been officially deprecated.
+>
+> We recommend NOT using this SDK in new projects.
+>
+> For existing integrations, please be aware that no further updates, bug fixes, or support will be provided.
+>
+> Thank you for your support and for being part of the Blocto developer community.
+
 Integrate Blocto service into your dApp on Android.
 
 Currently support
