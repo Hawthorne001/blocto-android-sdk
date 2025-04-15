@@ -12,6 +12,8 @@
 >
 > For existing integrations, please be aware that no further updates, bug fixes, or support will be provided.
 >
+> **IMPORTANT**: As of June 11, 2025, all services associated with this SDK will be completely discontinued and existing integrations will cease to function.
+>
 > Thank you for your support and for being part of the Blocto developer community.
 
 Integrate Blocto service into your dApp on Android.
